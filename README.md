@@ -7,7 +7,7 @@ This semester we will be using Github Classroom to host datasets and assignment 
 1. You have already accepted the assignment invite so now you are in your own private repository.
 1. You will see a file called *Assignment_1_Fall2022_template.ipynb*, click on it!
 1. Then click on the button to "Open in Google Colab."
-1. **Important:** Then click Save a copy in Drive.
+1. **Important:** Then click Save a copy in Drive and rename it something different like: *submission_assignment1.ipynb* (This will make it easier for us to find later). 
 1. This will open up a new notebook and save a copy to MyDrive/Colab Notebooks. You can check the location by going to File > Locate in Drive.
 1. Now you have a copy of the skeleton in your Colab Notebook folder, seperated from your Git Repo.
 1. **This is important in case I have to update a skeleton for some reason it won't accidently overwrite work that you have already done.**
