@@ -42,5 +42,5 @@ The homework development process should be as follows:
 1. Upon completion of your assignment in Google Colab, go to File > Save a copy in Github. 
 1. A new window will pop up, go to the Repository drop down and select your personal assignment repository (probably labeled something like "Thayer-ENGS108/assignment_1_Fall2022-{your-name}").
 1. To make multiple submissions, just keep saving a copy to Github like previously described and just overwrite your old copy.
-1. **Important:** Always make sure to check your work to make sure your saved copy on Github matches your work in your notebook, remeber you are saving the colab notebook in Google Drive and saving copies (snapshots) to Github, so Github will only make changes when you explicitly do the File > Save a copy in Github command. 
+1. **Important:** Always make sure to check your work to make sure your saved copy on Github matches your work in your notebook, remember you are saving the colab notebook constantlty in Google Drive and saving copies (snapshots) to Github, so Github will only make changes when you explicitly do the File > Save a copy in Github command!
 1. Make sure you get your final submission in by the deadline!
