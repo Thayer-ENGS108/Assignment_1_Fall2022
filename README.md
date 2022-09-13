@@ -13,6 +13,14 @@ This semester we will be using Github Classroom to host datasets and assignment 
 1. **This is important in case I have to update a skeleton for some reason it won't accidently overwrite work that you have already done.**
 1. (Optional) If you haven't already done so install Google Drive Backup and Sync.
 
+## Allow Google Colab to Access Private Repos and Orgs (DO THIS ONCE! MAYBE RIGHT NOW!)
+1. Navigate to [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+1. If you're new, maybe look at the intro notebook to get yourself familiar.
+1. If you're not signed in, make sure to sign into your appropriate Google Account.
+1. Now click Tools > Settings, and navigate to the Github option.
+1. Check the "Access private repositories and organizations" option, and click through any authorization pop-ups that come up and click "Save."
+1. All done with this!
+
 ## Installing Google Drive Backup and Sync
 Navigate to [Google's website](https://www.google.com/drive/download/) and download and install the Google Drive Backup and Sync Application. You should also be using your Dartmouth Account for this as it has unlimited storage in case we play around with some larger datasets.
 
