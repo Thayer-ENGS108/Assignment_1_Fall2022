@@ -5,7 +5,7 @@ Included in this repository is the Assignment 1 notebook. It provides a skeleton
 
 This semester we will be using Github Classroom to host datasets and assignment template notebooks and Google Colab to run all of our code. The process for getting setup is pretty straightforward and you will be aided considerably if you install the following tools:
 1. You have already accepted the assignment invite so now you are in your own private repository.
-1. You will see a file called *Assignment_1_Fall2022.ipynb*, click on it!
+1. You will see a file called *Assignment_1_Fall2022_template.ipynb*, click on it!
 1. Then click on the button to "Open in Google Colab."
 1. **Important:** Then click Save a copy in Drive.
 1. This will open up a new notebook and save a copy to MyDrive/Colab Notebooks. You can check the location by going to File > Locate in Drive.
